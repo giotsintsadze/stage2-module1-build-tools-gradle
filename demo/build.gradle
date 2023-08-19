@@ -15,7 +15,7 @@ compileJava {
 }
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_20
+    sourceCompatibility = JavaVersion.VERSION_11
 }
 
 test {
